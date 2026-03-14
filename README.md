@@ -1,4 +1,5 @@
 Game Overview
+
 For this assignment, I created a bird-themed game that builds on my Asgn 2 project. The player must navigate through a windy environment, hide behind rocks to avoid being blown away, and interact with birds by throwing pellets to feed them. The game emphasizes physics interactions, lighting, and visual instructions for the player.
 
 Physics Constructs
